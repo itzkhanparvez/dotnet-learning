@@ -1,0 +1,15 @@
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/bin/Debug/net10.0/EmployeeManagement
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/bin/Debug/net10.0/EmployeeManagement.deps.json
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/bin/Debug/net10.0/EmployeeManagement.runtimeconfig.json
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/bin/Debug/net10.0/EmployeeManagement.dll
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/bin/Debug/net10.0/EmployeeManagement.pdb
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/obj/Debug/net10.0/EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/obj/Debug/net10.0/EmployeeManagement.AssemblyInfoInputs.cache
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/obj/Debug/net10.0/EmployeeManagement.AssemblyInfo.cs
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/obj/Debug/net10.0/EmployeeManagement.csproj.CoreCompileInputs.cache
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/obj/Debug/net10.0/EmployeeManagement.sourcelink.json
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/obj/Debug/net10.0/EmployeeManagement.dll
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/obj/Debug/net10.0/refint/EmployeeManagement.dll
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/obj/Debug/net10.0/EmployeeManagement.pdb
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/obj/Debug/net10.0/EmployeeManagement.genruntimeconfig.cache
+/home/prk/Desktop/learnTech/dotnet-learning/01-csharp/001-oop/EmployeeManagement/obj/Debug/net10.0/ref/EmployeeManagement.dll
